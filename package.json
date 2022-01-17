@@ -1,0 +1,21 @@
+{
+    "name": "newc64",
+    "displayName": "newC64",
+    "description": "New Commodore 64 Theme For Vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "newc64",
+                "uiTheme": "vs-dark",
+                "path": "./themes/newc64-color-theme.json"
+            }
+        ]
+    }
+}
