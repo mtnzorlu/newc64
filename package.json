@@ -5,10 +5,16 @@
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
-    },
+    }, 
+    "icon": "icon.png", 
+    "homepage": "https://github.com/mtnzorlu/newc64",
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/mtnzorlu/newc64"
+    },
     "contributes": {
         "themes": [
             {
