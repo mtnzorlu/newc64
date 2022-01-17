@@ -1,7 +1,6 @@
 # BENİ OKU
 
 ## newc64 Kurulumu
----
 
 Dosyalar __kullanıcı-dizini./vscode/extentions__ içine kopyalanmalıdır:
 
@@ -11,11 +10,10 @@ Dosyalar __kullanıcı-dizini./vscode/extentions__ içine kopyalanmalıdır:
 * Dişli çark simgesini tıklayın. Renk Teması (CTRL + K CTRL + T) yazan yere tıklayın ve __newc64__ seçin.
 
 ---
----
+
 # READ ME
 
 ## newc64 Installation
----
 
 Files should be copied into __user-directory./vscode/extensions__:
 
