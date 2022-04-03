@@ -1,4 +1,6 @@
-# BENİ OKU
+# NEW COMMODORE 64 VSCODE TEMASI
+
+![commodore theme for vscode](/ss/keys.png)
 
 ## newc64 Kurulumu
 
@@ -11,7 +13,7 @@ Dosyalar __kullanıcı-dizini./vscode/extentions__ içine kopyalanmalıdır:
 
 ---
 
-# READ ME
+# NEW COMMODORE 64 VSCODE TEHEME
 
 ## newc64 Installation
 
