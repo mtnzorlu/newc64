@@ -8,7 +8,7 @@ Dosyalar __kullanıcı-dizini./vscode/extentions__ içine kopyalanmalıdır:
 
     git clone https://github.com/mtnzorlu/newc64.git
 
-* Dosyaları indirip, __~/.vscode/extentions__ içine atın.
+* Dosyaları indirip,    ~/.vscode/extentions içine atın.
 * Dişli çark simgesini tıklayın. Renk Teması (CTRL + K CTRL + T) yazan yere tıklayın ve __newc64__ seçin.
 
 ---
@@ -21,5 +21,5 @@ Files should be copied into __user-directory./vscode/extensions__:
 
       git clone https://github.com/mtnzorlu/newc64.git
 
-* Download the files and put them in __~/.vscode/extensions__.
+* Download the files and put them in    ~/.vscode/extensions
 * Turn the gear wheel. Click where it says Color Theme (CTRL + K CTRL + T) and select __newc64__. 
