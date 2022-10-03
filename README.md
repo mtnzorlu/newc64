@@ -13,7 +13,7 @@ Dosyalar __kullanıcı-dizini./vscode/extentions__ içine kopyalanmalıdır:
 
 ---
 
-# NEW COMMODORE 64 VSCODE TEHEME
+# NEW COMMODORE 64 VSCODE THEME
 
 ## newc64 Installation
 
